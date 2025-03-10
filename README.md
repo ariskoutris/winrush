@@ -3,7 +3,7 @@
 A luck-based minigame developed for Vodafone's 3-day app development hackathon. WinRush offers an engaging slot machine experience where users can win mobile minutes and discount coupons through interactive gameplay.
 
 <p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYwcnN0NGY5YjM0dWttMmk1aWdpcGRjNXBudGFrdXExZXN4ejI4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iegWUYKrTnDT5tez2j/giphy.gif" alt="WinRush Demo Screenshot">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZzOHhsZHF3ZnBrc3Uybm96eDQ5bzhreXcxNDdmeWhtejh3NTZlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7iyZozkkx8M2fAhmF/giphy.gif" alt="WinRush Demo Screenshot">
 </p>
 
 ### Requirements
