@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WinRush</string>
+    <string name="description"> Pull the lever </string>
+    <string name="play_button"> Play now! </string>
+    <string name="win_button"> Your win history </string>
+    <string name="shop_button"> Possible prizes </string>
+    <string name="info_button"> Information about WinRush </string>
+    <string name="savefile"> savefile </string>
+    <string name="info">
+        WinRush v0.1\nCode and Graphics Copyrights Reserved by Patari Iternational Entertainment©\nSpecial thanks to:\nEESTEC\nVodafone\nAdobe\nGoogle\n
+    </string>
+    <string name="odeon">2 εισιτήρια για οποιαδήποτε ταινία στα Odeon Cinemas</string>
+    <string name="efood">Δωροεπιταγή 20€ για online παραγγελίες από το efood.gr</string>
+    <string name="mikel">2 καφέδες από τα Mikel</string>
+    <string name="bluestar">Ένα εισιτήριο μετ\' επιστροφής από την BlueStar Ferries</string>
+    <string name="pizza">Γεύμα 2 ατόμων από τη Domino\'s Pizza</string>
+    <string name="social"> 2 GB για Social Media (Facebook, Instagram, Twitter) για ένα μήνα</string>
+    <string name="burger">2 burger από τα Simply Burgers</string>
+    <string name="streaming">7 GB για Streaming Services (Youtube, Spotify) για ένα μήνα</string>
+    <string name="lepta">500 λεπτά ομιλίας προς όλα τα δίκτυα για ένα μήνα</string>
+</resources>
