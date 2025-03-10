@@ -1,13 +1,16 @@
 # WinRush
 
-A luck-based rewards minigame developed for a 3-day long hackathon organized by Vodafone Greece. WinRush distributes rewards such as mobile minutes and discount coupons through an interactive gaming experience.
+A luck-based minigame developed for Vodafone's 3-day app development hackathon. WinRush offers an engaging slot machine experience where users can win mobile minutes and discount coupons through interactive gameplay.
 
-/* demo image place holder */
-![WinRush Demo Screenshot](screenshots/demo.png)
+<p align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYwcnN0NGY5YjM0dWttMmk1aWdpcGRjNXBudGFrdXExZXN4ejI4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iegWUYKrTnDT5tez2j/giphy.gif" alt="WinRush Demo Screenshot">
+</p>
 
-## Technical Implementation
-- Built natively for Android using Java
-- Uses GifImageView for animations
-- Custom gesture detection for intuitive controls
-- Separate components for game logic, animations, and reward management
-- Lightweight and responsive design
+### Requirements
+
+- Android 9 (API level 28) or higher
+- Minimum 2GB RAM recommended
+- ~50MB of free storage space
+
+### Other Contributors
+Developed in collaboration with Manos Yannopoulos.
